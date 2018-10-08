@@ -1,14 +1,23 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: 'Lomax Colorado '
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: 'Donovan and Dawn '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Donovan and Dawn Isaacs are the proud owners of Lomax Window & Door Co.
+  Donovan started building windows in the early 90’s in Saint Cloud, MN. Being
+  from the Midwest has given Donovan a strong work ethic and the ability to
+  build like none other (it’s too cold to do it a second time, so get it done
+  right the first time around)! He moved to Colorado in 1999. Through the years,
+  he has moved up the window ladder, and his knowledge of the industry is
+  incredible! The opportunity to own and operate Lomax was too good to pass up!
+  With Dawn on board to run the office, they figured it would be a great family
+  opportunity.  Donovan and Dawn are local Fort Collins residents. They live
+  near Horsetooth Reservoir with their three sons and many, many, fuzzy and
+  feathered friends. The Lomax Window and Door Co. team is comprised of family
+  and employees who are known and trusted to get the job done!  “We want our
+  customers to be part of our team as well and to help us continue to grow as a
+  quality Colorado company!”  -Donovan & Dawn Isaacs
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,12 +47,30 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: DONOVAN & DAWN ISAACS
+  description: >-
+    Donovan and Dawn Isaacs are the proud owners of Lomax Window & Door Co.
+    Donovan started building windows in the early 90’s in Saint Cloud, MN. Being
+    from the Midwest has given Donovan a strong work ethic and the ability to
+    build like none other (it’s too cold to do it a second time, so get it done
+    right the first time around)! He moved to Colorado in 1999. Through the
+    years, he has moved up the window ladder, and his knowledge of the industry
+    is incredible! The opportunity to own and operate Lomax was too good to pass
+    up! With Dawn on board to run the office, they figured it would be a great
+    family opportunity.
+
+
+    Donovan and Dawn are local Fort Collins residents. They live near Horsetooth
+    Reservoir with their three sons and many, many, fuzzy and feathered friends.
+    The Lomax Window and Door Co. team is comprised of family and employees who
+    are known and trusted to get the job done!
+
+
+    “We want our customers to be part of our team as well and to help us
+    continue to grow as a quality Colorado company!”
+
+
+    -Donovan & Dawn Isaacs
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +126,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
